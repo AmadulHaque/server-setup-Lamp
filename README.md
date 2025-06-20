@@ -1,5 +1,6 @@
-sudo nano /etc/nginx/sites-available/laravel
 
+
+sudo nano /etc/nginx/sites-available/laravel
 server {
     listen 9999;
     server_name your_ip_or_domain;
